@@ -9,4 +9,6 @@ https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/
 
 WEBHOOK_API_KEY
 
+https://docs.sonarsource.com/sonarqube-server/instance-administration/integrations/webhooks
+
 This value is required, any text entered here must also be configured as the API Key on the Sonarqube site
